@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Cube
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Monsters
+  - Player
+  - EndGoal
+  - NoPlayerArea
+  - Cube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondazo
+    uniqueID: 1325319121
+    locked: 0
+  - name: refondo
+    uniqueID: 3078450055
+    locked: 0
+  - name: fondo
+    uniqueID: 2636058809
+    locked: 0
+  - name: Background
+    uniqueID: 775979593
+    locked: 0
+  - name: Decorations
+    uniqueID: 3525633281
+    locked: 0
+  - name: Level
+    uniqueID: 2467485441
+    locked: 0
+  - name: Gameplay
+    uniqueID: 3005528681
+    locked: 0
